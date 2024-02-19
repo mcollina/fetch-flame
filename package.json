@@ -1,0 +1,17 @@
+{
+  "name": "fetch-flame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matteo Collina <hello@matteocollina.com>",
+  "license": "MIT",
+  "dependencies": {
+    "clinic": "^13.0.0",
+    "fastq": "^1.17.1",
+    "undici": "^6.6.2"
+  }
+}
